@@ -1,2 +1,0 @@
-hello@diy-lifestyle.org: fumblies@gmail.com
-*: ":fail: No Such User Here"
