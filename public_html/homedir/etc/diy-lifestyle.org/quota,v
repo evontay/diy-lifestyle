@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks
+	diylifes:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.02.19.07.11.21;	author diylifes;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@

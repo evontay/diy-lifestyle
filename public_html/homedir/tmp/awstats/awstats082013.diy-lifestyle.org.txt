@@ -1,0 +1,813 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201308 will be lost/reset.
+# Last config file used to build this data file was /home1/diylifes/tmp/awstats/awstats.diy-lifestyle.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2694                
+POS_VISITOR 12640               
+POS_DAY 22682               
+POS_DOMAIN 3543                
+POS_LOGIN 4335                
+POS_ROBOT 4490                
+POS_WORMS 4941                
+POS_EMAILSENDER 5072                
+POS_EMAILRECEIVER 5215                
+POS_SESSION 23514               
+POS_SIDER 23716               
+POS_FILETYPES 5350                
+POS_DOWNLOADS 5533                
+POS_OS 5581                
+POS_BROWSER 5765                
+POS_SCREENSIZE 6944                
+POS_UNKNOWNREFERER 7018                
+POS_UNKNOWNREFERERBROWSER 7894                
+POS_ORIGIN 8367                
+POS_SEREFERRALS 8509                
+POS_PAGEREFS 8706                
+POS_SEARCHWORDS 9404                
+POS_KEYWORDS 9780                
+POS_MISC 2357                
+POS_ERRORS 10002               
+POS_CLUSTER 4191                
+POS_SIDER_404 10115               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130901001024 140 29026 9495176809813
+FirstTime 20130801052512
+LastTime 20130831213418
+LastUpdate 20130901062438 140 0 139 0 0
+TotalVisits 185                 
+TotalUnique 170                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 297                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 18 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 11 2062338 20 72 2034586
+1 9 105 3463978 26 97 397207
+2 8 122 6357712 36 103 267116
+3 11 61 5732430 16 74 825799
+4 25 81 2825886 14 53 232133
+5 11 244 13987281 17 58 1868427
+6 14 29 727753 32 79 115245
+7 19 239 8680180 19 74 314036
+8 15 165 6694649 10 46 680693
+9 10 141 15253059 23 54 345520
+10 8 111 7823948 32 78 327609
+11 21 152 10158278 67 102 369746
+12 12 89 11639131 39 73 127653
+13 13 214 11465879 17 53 83910
+14 27 113 4899041 43 91 350849
+15 5 85 11911355 34 84 531771
+16 23 167 10983343 24 54 91328
+17 4 39 591387 23 44 66116
+18 6 121 17016003 21 59 79358
+19 8 48 5042672 17 44 296012
+20 16 147 5322178 13 37 58499
+21 13 168 5214102 24 56 66050
+22 22 205 13139448 15 64 364257
+23 9 164 4855349 22 62 110222
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+us 141 1392 72738248
+cn 41 89 4422732
+ro 26 72 332196
+fr 19 183 4933938
+sg 14 198 10122785
+my 6 78 1696804
+mx 6 54 4961233
+jp 5 40 2441730
+gb 5 99 5249827
+vn 4 45 1348869
+nl 4 102 32255895
+au 3 95 5403274
+at 3 44 2611335
+it 3 38 2895366
+br 3 69 1140759
+lt 3 3 15720
+se 3 70 3254890
+de 3 34 2366815
+bd 2 36 529328
+ph 2 42 2493265
+ru 2 3 9053
+eu 2 2 12100
+id 2 40 816962
+ca 2 39 2591813
+be 2 41 12824991
+ua 1 1 4239
+kr 1 1 4220
+kz 1 1 4276
+hk 1 1 4276
+ie 0 1 210610
+kw 0 1 1801274
+cz 0 2 153488
+by 1 1 4276
+tw 0 1 208557
+ch 1 36 2798958
+hu 1 31 2310343
+pl 2 35 570021
+nz 0 1 302914
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+[\s_+:,\.\;\/\\-]bot 472 5133048 20130831225824 0
+bot[\s_+:,\.\;\/\\-] 259 1706571 20130831125054 0
+googlebot 144 353083 20130831225745 0
+robot 98 224387 20130830123300 0
+spider 75 356246 20130831103332 0
+msnbot\-media 56 1146872 20130831154615 0
+crawl 54 199631 20130831150050 0
+no_user_agent 4 16899 20130827165435 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 82 122844 0 0
+png 1574 5984251 0 0
+ico 53 53019 0 0
+html 315 1106851 0 0
+jpg 317 4823539 0 0
+gif 680 173756876 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 116
+winxp 174
+winlong 114
+java 70
+winnt 1
+win98 1
+linuxubuntu 11
+winvista 70
+linux 148
+win7 1074
+macosx 1131
+win2003 17
+Unknown 94
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 71
+msie6.0 30
+firefox2.0.0.1 1
+chrome28.0.1500.94 70
+firefox4.0 2
+chrome29.0.1547.62 31
+lynx 3
+netscape4.73 1
+firefox3.6.15 1
+msie8.0 3
+chrome28.0.1500.72 4
+msie7.0 23
+safari5.1.8 42
+netscape4.5 1
+firefox23.0 39
+firefox9.0.1 2
+msie10.6 2
+wget 1
+docomo 1
+firefox21.0 3
+safari6.0 453
+firefox3.5.2 1
+chrome23.0.1271.91 1
+safari6.0.5 106
+safari6.0.4 68
+mozilla 149
+chrome16.0.912.77 41
+firefox14.0.1 18
+netscape4.0 1
+chrome22.0.1229.94 3
+firefox3.6.3 1
+safari5.1.9 33
+firefox15.0.1 3
+chrome29.0.1547.2 1
+safari 110
+firefox5.0 1
+chrome29.0.1547.57 143
+firefox20.0 32
+chrome23.0.1271.64 1
+android 45
+firefox7.0 1
+chrome22.0.1229 53
+firefox3.6.6 1
+chrome28.0.1500.95 738
+chrome22.0.1229.79 1
+firefox9.0 1
+opera9.80 57
+chrome19.0.1084.56 30
+safari6.0.1 1
+firefox6.0.2 1
+chrome13.0.782.112 1
+chrome24.0.1312.57 1
+firefox16.0 84
+msie9.0 121
+Unknown 101
+chrome14.0.835.202 11
+safari5.0.5 1
+chrome22.0.1229.96 1
+firefox17.0 2
+chrome18.0.1025.166 1
+chrome27.0.1453.110 32
+chrome28.0.1500.71 67
+msie5.5 1
+chrome20.0.1132.57 1
+safari5.1.7 1
+firefox22.0 95
+msie10.0 97
+firefox5.0.1 2
+safari5.1 1
+firefox6.0 5
+firefox3.5.9 1
+chrome27.0.1453.116 39
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+url_gather 20130826152954
+facebookplatform/1.0_(_http://developers.facebook.com) 20130818084109
+Pinterest/0.1__http://pinterest.com/ 20130816104014
+DoCoMo/2.0_P900i(c100;TB;W24H11)_(compatible;_ichiro/mobile_goo;_http://search.goo.ne.jp/option/use/sub4/sub4-1/) 20130822043130
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20130810112837
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20130808205622
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130822131216
+Opera/9.80_(Android;_Opera_Mini/5.1.22460/30.3697;_U;_en)_Presto/2.8.119_Version/11.10 20130816084017
+Mozilla/4.0 20130827141916
+Python-urllib/2.6 20130817083132
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130828030025
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+url_gather 20130826152954
+facebookplatform/1.0_(_http://developers.facebook.com) 20130818084109
+Pinterest/0.1__http://pinterest.com/ 20130816104014
+Python-urllib/2.6 20130817083132
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130828030025
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20130810112837
+Java/1.6.0_04 20130817141656
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 137 299
+From1 0 0
+From2 59 92
+From3 22 55
+From4 97 2575
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 56 88
+baidu 1 1
+bing 0 1
+yandex 1 1
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://diy-lifestyle.tumblr.com 13 42
+http://www.operationoverhaul.com/page/9/ 2 2
+http://www.dikbudcairo.org/favicon.ico 1 1
+http://sameid.net/domain/www.diy-lifestyle.org/ 1 1
+http://ourlittlegreendot.com/ikea-hackers-and-mini-maker-faire/ 1 1
+http://diy-lifestyle.tumblr.com 1 2
+http://notabilia.wordpress.com/category/craft/page/4/ 1 1
+http://mawords.com/diy-lifestyle.org 1 1
+http://www.fumbliesfolio.tumblr.com 1 1
+http://niiicethings.tumblr.com/page/9 0 2
+http://greenissuessingapore.blogspot.sg/2012/03/diy-lifestyle-challenge-2012.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 11
+diy+lifestyle 9
+the+diy+challenge+on+the 1
+thediylifestylechallenge 1
+www.diy-lifestyle.org 1
+diy+challange 1
+diy+challenge 1
+diy+life+style 1
+diy-lifestyle.org 1
+challenge+do+it+yourself 1
+diy 1
+do+it+yourself+lifestyle 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 14
+diy 14
+lifestyle 10
+challenge 3
+the 2
+yourself 2
+do 2
+it 2
+thediylifestylechallenge 1
+www.diy-lifestyle.org 1
+on 1
+challange 1
+life 1
+style 1
+diy-lifestyle.org 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 1 11044
+301 4 1156
+404 426 848890
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 53
+/zine.html/trackback 1 http://www.google.com/tdtstols
+/drupal 1 http://diy-lifestyle.org/drupal
+/sitemap.xml 2 -
+/robots.txt 333 -
+/apple-touch-icon.png 8 -
+/admin/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/member/register 1 http://diy-lifestyle.org/
+/admin.php 4 -
+/admin/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/reg.asp 3 -
+/index.php/forums/member/register 1 http://diy-lifestyle.org/
+/sign_up.html 1 http://diy-lifestyle.org/
+/login.php 3 -
+/wp-admin/ 1 -
+/member/index_do.php 1 http://diy-lifestyle.org/
+/joomla 1 http://diy-lifestyle.org/joomla
+/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/wordpress 1 http://diy-lifestyle.org/wordpress
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/CreateUser.asp 1 http://diy-lifestyle.org/
+/blog 1 http://diy-lifestyle.org/blog
+/member/reg.php 1 -
+/fck/editor/filemanager/connectors/php/connector.php 1 -
+/profile.php 1 http://diy-lifestyle.org/profile.php
+/FCK/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/FCK/editor/filemanager/connectors/php/connector.php 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/apple-touch-icon-precomposed.png 10 -
+/site/signup.php 1 http://diy-lifestyle.org/
+/register.php 4 http://diy-lifestyle.org/
+/fck/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/register.aspx 1 http://diy-lifestyle.org/
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/account/register.php 1 http://diy-lifestyle.org/
+/registration_rules.asp 1 http://diy-lifestyle.org/registration_rules.asp
+/administrator/index.php 4 -
+/member.php 2 http://diy-lifestyle.org/
+/join.php 1 -
+/bokeindex.asp 1 -
+/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/forum/member/register 1 http://diy-lifestyle.org/
+/wordpress/wp-admin/ 1 -
+/wp 1 http://diy-lifestyle.org/wp
+/YaBB.pl/ 1 -
+/signup 1 http://diy-lifestyle.org/
+/URmgW/manifesto.html 1 -
+/blog/wp-admin/ 1 -
+/signup.php 2 http://diy-lifestyle.org/
+/index.php 5 http://diy-lifestyle.org/
+/logging.php 1 http://diy-lifestyle.org/
+/ucp.php 1 http://diy-lifestyle.org/
+/wp-login.php 6 -
+/YaBB.cgi/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 297
+92.85.41.66 24 70 328870 20130817141649
+59.61.146.107 12 12 21267 20130813110751
+208.43.225.67 11 11 26287 20130803064336
+69.58.178.58 11 11 62936 20130804164302
+38.100.21.69 10 11 64045 20130813045638
+203.116.134.32 7 55 3366890 20130815221539
+198.2.203.193 7 7 48923 20130813034058
+187.137.63.225 6 52 1358685 20130801214448
+141.0.11.155 4 46 1139245 20130816084017
+24.172.229.54 4 45 2918414 20130815092637
+113.165.36.16 4 45 1348869 20130827073252
+75.84.163.86 4 47 1131454 20130830030504
+178.33.178.15 3 3 20054 20130817142659
+80.122.253.62 3 44 2611335 20130805051902
+76.164.117.212 3 42 1117188 20130821082334
+202.186.66.131 3 39 897870 20130812204335
+151.42.8.202 3 38 2895366 20130801162637
+92.142.78.22 3 41 2596910 20130812161121
+176.31.14.28 3 3 19141 20130813225552
+126.214.99.2 3 38 2435884 20130805221903
+75.255.216.105 3 68 3304392 20130831213418
+210.195.213.218 3 39 798934 20130820070225
+78.158.11.226 3 3 15720 20130822131216
+220.255.1.178 2 19 704385 20130808123109
+74.73.134.18 2 39 2695243 20130813183711
+220.255.1.223 0 3 82249 
+220.255.1.191 0 5 58514 
+107.6.95.11 0 1 817 
+69.171.237.10 0 2 397733 
+69.175.58.134 1 1 1663 20130829075634
+83.141.216.233 1 1 4239 20130817034055
+119.56.125.15 1 30 509069 20130830023425
+8.35.201.53 1 2 2530 20130810112837
+77.249.121.105 0 2 1980746 
+145.120.12.62 0 1 1801274 
+107.6.95.22 0 2 3783 
+23.20.91.151 1 1 4276 20130803010309
+173.252.103.5 0 1 1801274 
+70.182.174.34 1 30 509069 20130823103048
+54.221.1.253 1 1 4276 20130806191112
+205.211.96.100 0 1 1801274 
+66.249.84.19 1 1 1663 20130804072736
+37.59.213.209 1 1 3657 20130803023832
+220.255.2.231 0 2 4049 
+198.2.198.98 2 2 13978 20130817230847
+24.116.137.6 0 1 210610 
+202.156.11.11 0 1 1801274 
+213.34.234.119 0 1 229620 
+173.252.110.119 0 1 82536 
+80.60.212.24 0 2 1969387 
+69.117.131.37 2 37 791863 20130802074248
+109.255.80.84 0 1 210610 
+173.252.103.0 0 1 1801274 
+61.135.190.220 1 1 1663 20130802215220
+187.141.24.113 0 1 1801274 
+107.6.95.9 0 3 18015 
+131.253.24.151 1 2 3004 20130830082038
+199.30.24.150 1 31 557960 20130809044023
+46.242.25.172 1 1 229 20130804120613
+173.252.110.118 0 1 63712 
+192.189.208.208 0 1 1801274 
+71.89.108.42 0 1 229620 
+220.255.2.226 0 1 848 
+220.255.2.207 0 1 801 
+69.171.247.112 0 1 78419 
+46.105.59.74 2 2 420 20130827010407
+220.255.1.190 0 2 1758 
+108.163.224.181 2 2 3326 20130828031116
+69.171.234.115 0 1 168113 
+24.192.87.185 2 38 790539 20130817210028
+59.60.120.44 1 1 4239 20130801103259
+107.6.95.14 1 4 10407 20130821155648
+206.225.83.83 1 1 1663 20130824143217
+84.31.197.47 0 5 2344352 
+54.211.57.32 1 1 4276 20130803000855
+220.255.1.201 0 2 3757 
+220.255.1.211 0 4 146735 
+69.171.224.115 0 1 312009 
+209.242.141.60 0 1 1801274 
+5.9.149.166 1 1 1607 20130821070242
+220.255.2.205 0 3 13995 
+107.6.95.17 0 1 14892 
+220.255.1.227 0 3 122687 
+65.55.217.239 1 31 557922 20130810234549
+63.235.165.17 2 2 4140 20130817083132
+66.249.84.36 0 1 979 
+92.90.26.22 2 37 650374 20130815024548
+221.188.58.107 1 1 1607 20130820225934
+220.255.2.244 0 1 927 
+82.75.63.150 0 1 168113 
+68.63.223.24 0 1 1801274 
+72.82.147.185 1 31 559658 20130803225725
+199.30.24.96 0 8 355022 
+65.55.215.251 1 2 3004 20130827103123
+91.231.40.53 1 1 4239 20130820201418
+107.6.95.12 0 2 40692 
+77.170.33.9 0 2 2030894 
+62.238.66.16 0 1 1801274 
+107.6.95.16 0 3 314229 
+88.124.12.231 1 32 560637 20130816110437
+71.193.128.48 0 1 1801274 
+119.147.146.118 1 1 1607 20130827140344
+220.181.127.126 1 1 4239 20130827004504
+99.171.189.68 0 1 1801274 
+220.255.1.232 0 4 87547 
+220.255.1.74 1 1 1663 20130812072425
+74.221.212.37 1 1 1663 20130827210346
+69.171.237.13 0 2 1879693 
+184.154.84.93 1 1 1663 20130809133410
+187.171.223.212 0 1 1801274 
+76.31.175.157 1 32 560637 20130808154447
+218.93.127.107 2 2 14332 20130803070955
+107.6.95.21 0 1 3159 
+173.56.2.65 0 1 208557 
+31.169.22.86 1 1 4276 20130824123100
+101.226.89.121 1 1 4239 20130827141916
+114.108.228.161 2 41 691991 20130802060002
+121.205.214.115 1 1 7736 20130813113032
+84.84.94.66 2 34 2313985 20130820141744
+83.76.222.78 0 4 2238358 
+220.255.2.187 0 1 934 
+220.181.132.193 1 2 8898 20130827004550
+220.255.1.206 0 1 728 
+94.226.85.81 0 6 2450346 
+220.255.1.224 0 2 13245 
+166.137.116.45 0 1 1801218 
+23.20.253.38 1 1 3231 20130810004954
+82.168.163.24 0 1 1801274 
+64.202.161.41 2 2 8478 20130806032541
+82.33.184.37 1 32 560563 20130807101546
+121.205.199.146 1 1 7736 20130813201355
+171.161.160.10 2 32 561284 20130801143015
+174.36.204.225 1 1 1844 20130808205622
+70.120.95.15 0 1 1801274 
+67.172.250.138 1 32 560600 20130805200416
+98.148.219.168 2 30 3290353 20130804134351
+76.169.57.46 1 32 560637 20130812233548
+202.46.48.68 1 1 1626 20130804200506
+202.46.60.87 1 1 1626 20130802110740
+208.54.36.201 2 38 893847 20130829104255
+220.255.1.187 0 1 2982 
+119.167.231.73 1 1 7736 20130817031054
+107.6.95.19 0 2 10086 
+69.41.96.199 0 1 1801274 
+50.80.209.251 1 33 2361911 20130803181343
+220.255.1.212 0 1 208927 
+203.33.133.31 0 1 1801274 
+59.58.158.225 1 1 7736 20130824033504
+220.255.1.207 0 3 95833 
+162.206.134.72 1 33 2361911 20130825113736
+69.113.240.187 2 38 893969 20130830161450
+173.252.110.116 0 1 1801274 
+110.85.68.161 1 1 7736 20130807232900
+110.89.10.97 1 1 7736 20130804201009
+69.250.40.103 0 1 229620 
+66.249.82.109 1 1 1663 20130829005709
+109.176.232.112 0 1 1801274 
+59.58.157.45 1 1 7736 20130819224718
+94.129.195.186 0 1 1801274 
+50.46.144.91 1 32 560637 20130802072908
+120.37.210.151 1 1 7736 20130816151653
+54.224.163.52 1 1 4276 20130806191942
+220.255.1.194 0 1 39528 
+220.255.1.252 0 1 7757 
+99.33.208.213 1 31 559621 20130825111059
+80.61.60.170 0 1 1801274 
+86.159.186.80 1 32 560637 20130827050152
+66.220.152.115 0 1 168113 
+50.57.68.9 1 1 4276 20130819163025
+173.252.73.119 0 1 78419 
+54.224.178.166 1 1 4276 20130803013818
+91.180.149.80 0 4 2361631 
+220.255.1.213 0 4 12034 
+84.196.184.140 2 26 3845232 20130821124349
+91.235.200.2 0 2 153488 
+213.93.57.88 1 31 559658 20130804015336
+68.197.166.36 1 33 1454146 20130808203319
+5.149.248.84 1 1 4220 20130804014511
+62.45.86.36 0 1 105994 
+79.111.41.87 1 2 8824 20130806063146
+194.213.124.124 1 32 560637 20130828094840
+98.139.240.156 1 2 5595 20130821093500
+199.30.24.68 1 31 557922 20130806230203
+86.101.248.14 0 1 1801274 
+77.56.167.86 1 32 560600 20130801075457
+220.255.1.219 0 1 1053 
+96.227.124.37 1 1 4239 20130812233345
+74.51.148.105 1 32 560637 20130812233846
+137.175.9.65 1 1 6989 20130816191106
+217.207.42.81 1 31 517639 20130801093011
+54.211.71.92 1 1 4276 20130826043043
+54.227.29.161 1 1 4276 20130806185707
+103.247.12.89 2 40 816962 20130803024653
+69.171.247.118 0 2 1907268 
+220.255.2.254 0 1 9238 
+120.43.21.53 1 1 7736 20130803085839
+107.6.95.122 0 2 79147 
+87.151.114.155 0 1 1801274 
+66.249.82.172 0 1 979 
+114.248.214.187 0 1 1801274 
+217.123.113.216 0 2 2030894 
+124.107.127.8 0 1 1801274 
+208.89.210.61 1 1 1663 20130824081601
+121.74.53.48 0 1 302914 
+5.39.44.25 1 1 1663 20130808225225
+91.61.147.117 1 31 559658 20130823134901
+78.23.52.39 0 1 1801274 
+142.4.109.195 2 2 13978 20130816204730
+218.213.137.3 1 1 4276 20130822043130
+58.248.180.249 1 16 1892708 20130826212745
+107.6.95.13 0 4 16209 
+85.204.235.53 2 2 3326 20130806205816
+220.255.2.247 0 1 5611 
+217.120.136.22 0 1 820520 
+110.86.166.174 1 1 7736 20130813220144
+69.171.247.117 0 1 168113 
+189.114.150.103 1 32 560637 20130828202247
+109.206.163.201 1 1 6050 20130814064512
+84.81.32.238 0 1 105994 
+75.178.16.254 2 40 2880198 20130807055439
+110.85.72.191 1 1 7736 20130807121241
+144.76.113.197 1 1 4276 20130831174417
+203.117.37.231 0 1 1801274 
+220.255.1.225 0 1 5426 
+69.171.228.116 0 1 105994 
+8.28.16.254 2 2 11555 20130801143049
+142.54.184.18 1 1 1663 20130818123050
+107.22.136.78 1 2 7369 20130808124140
+66.249.81.30 2 53 2492753 20130830092419
+107.6.95.15 0 2 1870 
+101.168.85.71 2 37 789560 20130804220006
+173.54.208.96 1 32 560637 20130814234856
+218.30.63.130 1 32 536999 20130822222959
+62.163.213.201 0 1 105994 
+71.99.127.30 1 32 560637 20130810222654
+66.220.7.244 1 1 4220 20130804191029
+84.85.80.32 0 1 1801274 
+220.255.1.214 0 1 9657 
+27.153.209.35 1 1 7736 20130806221952
+83.161.141.162 0 2 2030894 
+220.255.1.184 0 3 183882 
+158.75.82.20 2 35 570021 20130807051659
+220.255.2.241 0 1 9238 
+141.134.162.136 0 1 1801274 
+115.43.65.134 0 1 208557 
+107.6.95.20 1 4 247085 20130821155607
+141.140.159.7 1 32 560600 20130828131032
+80.77.95.46 1 1 4220 20130829143233
+88.131.62.36 2 39 2695232 20130825130341
+77.250.30.243 0 3 2136888 
+83.87.230.188 0 2 2030894 
+85.225.67.21 1 31 559658 20130804131531
+221.120.97.52 2 36 529328 20130829012624
+76.123.128.49 0 1 1801274 
+84.85.135.31 0 1 39351 
+220.255.2.33 1 1 1663 20130826011212
+213.118.144.225 0 2 335614 
+202.46.55.190 1 1 4239 20130823163637
+220.255.2.178 1 27 781755 20130808123037
+173.252.110.117 0 1 41992 
+198.136.53.234 1 1 1607 20130813091109
+220.255.2.159 1 1 4276 20130808123014
+220.255.2.230 0 1 979 
+199.30.24.17 0 3 241678 
+69.175.58.130 1 1 1663 20130823095055
+220.255.1.215 0 1 1517 
+220.255.1.226 0 1 668 
+109.206.179.179 1 1 6050 20130831085910
+76.247.178.90 0 4 2238358 
+62.96.159.238 0 1 1801274 
+50.53.138.250 2 38 790576 20130822184250
+69.171.224.118 0 1 229620 
+119.63.193.196 1 1 4239 20130823163639
+120.37.226.125 1 1 7736 20130815003921
+173.252.110.113 0 1 1801274 
+199.30.25.119 0 1 422 
+184.72.147.169 1 2 2185 20130816104012
+81.82.110.244 0 1 229620 
+201.42.28.217 2 37 580122 20130819170934
+114.202.169.79 1 1 4220 20130826152954
+98.216.238.130 1 32 638040 20130804081507
+27.150.197.42 1 1 7736 20130817235346
+74.221.220.61 1 1 1663 20130811114710
+50.18.78.59 1 11 182504 20130804072734
+220.255.1.244 0 2 15982 
+117.26.119.152 1 1 7736 20130822145731
+220.255.1.185 0 2 1450 
+110.89.47.105 1 1 7736 20130824030333
+92.90.26.44 1 30 516206 20130808082939
+107.6.95.18 0 6 132599 
+207.6.40.248 2 38 790539 20130803132448
+14.200.113.114 1 56 1011166 20130812053309
+80.98.180.239 1 30 509069 20130829163340
+85.151.124.251 0 4 2238358 
+209.21.68.144 1 1 4239 20130804195530
+37.45.176.156 1 1 4276 20130824123116
+131.253.24.53 1 2 3892 20130801052512
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20130801 17 195 9952892 8
+20130802 8 120 8187238 6
+20130803 23 162 6662125 11
+20130804 26 192 6419630 14
+20130805 9 154 10723858 5
+20130806 9 41 2398725 8
+20130807 7 110 4194367 5
+20130808 10 148 6034367 9
+20130809 2 36 2797981 2
+20130810 5 68 1360929 5
+20130811 2 9 4383898 2
+20130812 15 216 9772908 11
+20130813 32 109 14791714 9
+20130814 2 33 566687 2
+20130815 15 140 8751677 5
+20130816 10 86 2045321 7
+20130817 35 121 3354685 9
+20130818 1 20 10055022 1
+20130819 4 43 4665709 3
+20130820 7 76 4920039 4
+20130821 9 115 10214807 6
+20130822 8 80 6218605 5
+20130823 5 66 4681360 5
+20130824 7 11 5641392 7
+20130825 4 103 5616764 4
+20130826 4 51 4263004 4
+20130827 13 91 7415817 9
+20130828 4 102 3956109 4
+20130829 8 108 1940769 6
+20130830 9 141 6501485 5
+20130831 5 74 7357496 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+0s-30s 160
+30s-2mn 13
+15mn-30mn 2
+2mn-5mn 7
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 151 362685 129 97
+/mindful.html 32 195362 18 22
+/making.html 30 122363 5 18
+/food.html 29 150578 13 18
+/about.html 17 67711 4 11
+/commute.html 15 79993 6 7
+/zine.html 13 29812 7 3
+/gallery.html 9 20799 0 2
+/faqs.html 8 49677 0 3
+/manifesto.html 7 15857 2 1
+/manifesto-text.html 4 12014 1 3
+END_SIDER

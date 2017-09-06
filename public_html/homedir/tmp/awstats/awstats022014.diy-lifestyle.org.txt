@@ -1,0 +1,414 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201402 will be lost/reset.
+# Last config file used to build this data file was /home1/diylifes/tmp/awstats/awstats.diy-lifestyle.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2680                
+POS_VISITOR 8338                
+POS_DAY 10488               
+POS_DOMAIN 3418                
+POS_LOGIN 3899                
+POS_ROBOT 4054                
+POS_WORMS 4520                
+POS_EMAILSENDER 4651                
+POS_EMAILRECEIVER 4794                
+POS_SESSION 10763               
+POS_SIDER 10951               
+POS_FILETYPES 4929                
+POS_DOWNLOADS 5109                
+POS_OS 5157                
+POS_BROWSER 5315                
+POS_SCREENSIZE 5775                
+POS_UNKNOWNREFERER 5849                
+POS_UNKNOWNREFERERBROWSER 6170                
+POS_ORIGIN 6368                
+POS_SEREFERRALS 6508                
+POS_PAGEREFS 6675                
+POS_SEARCHWORDS 7279                
+POS_KEYWORDS 7494                
+POS_MISC 2344                
+POS_ERRORS 7618                
+POS_CLUSTER 3755                
+POS_SIDER_404 7752                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140210044501 135 28374 9604626583703
+FirstTime 0
+LastTime 20140209160556
+LastUpdate 20140210051748 135 0 135 0 0
+TotalVisits 56                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 59                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 4276 7 12 46087
+1 0 0 0 6 18 27932
+2 0 0 0 4 13 334337
+3 4 45 955133 6 14 20383
+4 2 2 8552 11 24 259232
+5 6 68 998199 4 6 13396
+6 7 74 1931424 3 8 1262548
+7 2 37 820068 2 3 7064
+8 2 64 1164651 1 3 12855
+9 2 3 15989 6 9 37795
+10 0 1 237811 11 17 245723
+11 3 36 999972 6 12 41638
+12 2 31 638163 9 28 52074
+13 4 55 2531315 3 18 264814
+14 22 134 2794162 20 31 130827
+15 6 67 3111875 1 12 2788
+16 1 32 582344 6 27 50209
+17 1 4 11704 23 98 171532
+18 4 99 3880344 14 23 85481
+19 5 40 936767 2 4 5539
+20 5 41 669358 16 52 470905
+21 3 44 1503351 6 14 354841
+22 12 12 68949 5 14 114183
+23 17 84 694013 12 21 281386
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 45 337 11984629
+lt 15 51 225533
+at 11 11 62710
+sg 7 191 3477536
+cn 6 6 25656
+eg 5 50 1615804
+th 4 45 955133
+ca 4 75 1951594
+fi 3 42 1051704
+my 2 38 653891
+ro 2 2 11479
+de 2 37 820068
+ru 1 1 4239
+fr 1 23 311400
+ch 1 31 580876
+pl 1 32 582307
+cz 1 1 6050
+be 0 1 237811
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 114 585560 20140210005448 0
+googlebot 56 265714 20140210010502 0
+[\s_+:,\.\;\/\\-]bot 52 0 20140210044501 0
+crawl 46 9676 20140206175226 0
+spider 13 35603 20140209123750 0
+slurp 5 25366 20140209172209 0
+msnbot\-media 5 512968 20140208170732 0
+no_user_agent 4 16918 20140208015651 0
+robot 2 11405 20140207233651 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 28 124645 0 0
+png 530 1845294 0 0
+ico 21 29995 0 0
+html 111 581096 0 0
+jpg 102 1074701 0 0
+gif 182 20902689 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+blackberry 1
+linuxandroid 32
+winlong 32
+winxp 57
+winnt 12
+java 48
+winvista 75
+linux 10
+win7 328
+macosx 362
+Unknown 17
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 28
+safari7.0 68
+msie6.0 1
+blackberry 1
+msie5.01 11
+firefox3.6 1
+firefox26.0 74
+android 32
+chrome31.0.1650.57 1
+lynx 3
+chrome31.0.1650.63 32
+msie5.5 1
+chrome32.0.1700.107 167
+firefox3.6.15 6
+msie8.0 5
+iphone 29
+safari6.0.5 1
+chrome32.0.1700.102 179
+mozilla 14
+firefox14.0.1 10
+chrome32.0.1700.76 83
+firefox16.0 23
+chrome31.0.1650.16 3
+safari6.1.1 42
+msie9.0 2
+safari5.1.9 1
+safari6.1 97
+Unknown 50
+safari5.1.1 37
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Pinterest/0.1__http://pinterest.com/ 20140206171625
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20140208191220
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140202201907
+Go_1.1_package_http 20140209145458
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Pinterest/0.1__http://pinterest.com/ 20140206171625
+Java/1.7.0_51 20140203232053
+Go_1.1_package_http 20140209145458
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 57 132
+From1 0 0
+From2 19 21
+From3 12 15
+From4 23 806
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 13 15
+baidu 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://diylifestyle.bigcartel.com/product/adventures-in-diy-1 3 3
+http://domainsigma.com/whois/diy-lifestyle.org 3 3
+http://www.webhostingworld.net/billing/viewemail.php 1 1
+http://www.kreatywnakasia.pl/1/archives/04-2012/1.html 1 1
+https://www.facebook.com 1 1
+https://m.facebook.com 1 1
+http://evuln.com/tools/malware-scanner/diy-lifestyle.org/ 1 1
+http://diy-lifestyle.tumblr.com 1 2
+http://greenissuessingapore.blogspot.com/2012_03_01_archive.html 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+thediylifestylechallenge 6
+diy+challenge 1
+diy-lifestyle.org 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+thediylifestylechallenge 6
+challenge 1
+diy-lifestyle.org 1
+diy 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 3 0
+206 42 2520202
+406 5 2012
+301 2 528
+404 131 307456
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 11
+/images/navFAQS.png 4 -
+/wp-admin/ 1 -
+/images/WEBSITELOGO.png 4 -
+/images/navABOUT.png 4 -
+/robots.txt 106 -
+/apple-touch-icon.png 1 -
+/administrator 1 -
+/blog/wp-admin/ 1 -
+/images/navChallenge.png 4 -
+/images/navCommunity.png 4 -
+/wp-content/plugins/akismet/readme.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 59
+185.25.49.183 12 48 210066 20140203232045
+81.223.254.34 11 11 62710 20140206145633
+69.58.178.57 11 11 62955 20140204220520
+208.115.111.70 10 10 50494 20140208191220
+199.94.74.53 6 87 4543272 20140208141753
+196.205.5.135 5 50 1615804 20140202062115
+161.200.62.140 4 45 955133 20140203033437
+101.127.33.5 4 97 1564274 20140207053926
+86.50.120.225 3 42 1051704 20140204213729
+192.96.204.42 3 4 9206 20140208092817
+74.79.99.122 3 42 1152667 20140208152424
+207.161.91.94 3 42 1155414 20140209144845
+78.158.11.226 3 3 15467 20140202201907
+61.135.190.104 2 2 8552 20140208045031
+166.147.104.158 2 37 921743 20140208190628
+84.232.199.206 2 2 11479 20140201134950
+202.171.54.180 2 38 653891 20140206200401
+75.172.108.34 2 37 918727 20140202145938
+208.115.113.86 2 2 14687 20140207054523
+84.61.172.227 2 37 820068 20140204072124
+61.135.190.105 1 1 4276 20140206235538
+220.255.1.71 1 1 4276 20140203234527
+202.156.10.251 1 9 52453 20140202123325
+65.55.213.52 1 2 8898 20140207120524
+61.135.190.222 1 1 4276 20140206055550
+220.255.1.248 0 1 4622 
+202.156.10.10 0 20 576812 
+220.255.2.202 0 1 887 
+220.255.1.203 0 1 10399 
+220.255.1.253 0 1 1331 
+54.204.227.167 0 1 1375 
+61.135.190.101 1 1 4276 20140204045339
+31.148.246.136 1 1 6050 20140203235657
+69.164.111.198 1 3 10329 20140205173726
+220.255.2.222 0 1 1431 
+220.255.1.192 0 1 15898 
+216.211.85.198 1 32 582344 20140209160556
+220.255.2.241 0 1 801 
+220.255.1.179 0 1 10040 
+220.255.1.251 0 1 237811 
+116.12.251.253 1 32 582344 20140203183916
+220.255.1.178 0 11 37442 
+220.255.1.218 0 3 6775 
+142.55.122.107 0 1 213836 
+85.201.181.139 0 1 237811 
+220.255.1.209 0 2 110276 
+217.153.40.50 1 32 582307 20140203083739
+71.200.237.238 1 32 582344 20140206110730
+61.135.190.221 1 1 4276 20140203004432
+220.255.2.178 0 5 21405 
+220.255.1.250 0 1 237811 
+65.29.130.200 1 33 2391165 20140202183347
+109.68.191.150 1 1 4239 20140207191611
+93.1.201.226 1 23 311400 20140207063213
+184.82.157.133 0 2 409736 
+83.222.138.95 1 31 580876 20140203135328
+184.73.62.101 1 1 7166 20140209145458
+220.255.1.205 0 1 448 
+99.11.92.162 1 33 899865 20140204182610
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20140201 2 2 11479 2
+20140202 16 189 6615706 9
+20140203 22 222 3384894 8
+20140204 22 158 3434498 9
+20140205 4 6 24706 4
+20140206 17 85 1309082 6
+20140207 8 85 2686649 7
+20140208 15 149 4698935 8
+20140209 5 78 2392471 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+0s-30s 47
+30s-2mn 4
+2mn-5mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 44 179510 38 25
+/making.html 13 93397 4 7
+/food.html 9 63048 1 4
+/zine.html 8 25709 4 4
+/about.html 8 48195 3 4
+/gallery.html 7 26738 2 5
+/mindful.html 6 46433 2 3
+/commute.html 6 51986 0 1
+/manifesto.html 4 11959 0 0
+/faqs.html 3 21744 0 0
+/manifesto-text.html 3 12377 2 3
+END_SIDER

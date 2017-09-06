@@ -1,0 +1,984 @@
+# Webalizer V2.23-08 Incremental Data - 02/10/2014 04:45:01
+2014 2 10 4 45 1
+1455 1148 166 68 40 70 28871385 290 176 0
+4 3 87 1 10
+61 42 263023 15 45 21
+231 212 7563789 29 39 26
+287 236 3504921 37 40 21
+191 173 3563853 16 38 20
+69 17 852471 32 18 16
+173 142 1405705 18 33 18
+120 94 4001394 17 18 16
+186 141 5214039 20 32 21
+114 89 2483237 18 25 16
+23 2 18953 4 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13 8 50524 8
+18 3 29307 5
+13 1 335427 4
+59 47 976408 9
+26 13 268552 13
+74 68 1012239 10
+82 77 3193972 10
+40 38 827293 4
+67 65 1177506 3
+12 8 53908 8
+18 11 483856 11
+48 40 1042093 9
+59 39 692132 11
+73 59 2797578 7
+165 132 2929336 42
+79 67 3116397 7
+59 40 633036 7
+102 72 184004 24
+122 111 3966308 18
+44 40 942628 7
+93 55 1140424 21
+58 50 1858514 9
+26 14 183454 17
+105 90 976489 26
+0
+0
+0
+1148
+0
+0
+0
+0
+0
+42
+0
+2
+0
+0
+124
+0
+0
+0
+0
+0
+3
+131
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/navcommute1.png
+0 5 0 3672 0 0
+/images/main.gif
+0 31 0 6183863 0 0
+/images/websitelogo.png
+0 28 0 163818 0 0
+/images/sidephoto2.jpg
+0 30 0 164519 0 0
+/images/navchallenge.png
+0 28 0 27978 0 0
+/about.html
+0 19 0 102818 10 4
+/manifesto.html
+0 15 0 33620 5 4
+/food.html
+0 17 0 112298 5 3
+/images/navcommute.png
+0 30 0 22240 0 0
+/images/step4.png
+0 26 0 69112 0 0
+/images/navmanifesto.png
+0 31 0 25664 0 0
+/images/manifesto.jpg
+0 6 0 688073 0 0
+/making.html
+0 23 0 165204 12 4
+/images/head_zine.png
+0 8 0 13972 0 0
+/images/sidephoto1.jpg
+0 31 0 140667 0 0
+/images/head_gallery.png
+0 5 0 13309 0 0
+/images/head_aboutmaking.png
+0 10 0 44778 0 0
+/images/commutemascot.gif
+0 28 0 240966 0 0
+/images/navfood1.png
+0 5 0 3470 0 0
+/images/head_questions.png
+0 2 0 5657 0 0
+/images/head_aboutme.png
+0 6 0 9739 0 0
+/images/step3.png
+0 26 0 68181 0 0
+/images/food-header.gif
+0 7 0 856119 0 0
+/favicon.ico
+0 1 0 161 0 0
+/images/navmindful1.png
+0 2 0 2940 0 0
+/images/navcommunity.png
+0 28 0 24107 0 0
+/images/navmindful.png
+0 30 0 36555 0 0
+/images/navfaqs1.png
+0 1 0 746 0 0
+/images/navfaqs.png
+0 27 0 17291 0 0
+/images/head_aboutfood.png
+0 8 0 35074 0 0
+/images/step2.png
+0 25 0 65226 0 0
+/images/navzine.png
+0 28 0 19772 0 0
+/manifesto-text.html
+0 11 0 37566 5 3
+/images/head_manifesto.png
+0 1 0 4383 0 0
+/images/heydiyster.png
+0 27 0 831061 0 0
+/images/mindful-header.gif
+0 5 0 432359 0 0
+/mindful.html
+0 14 0 93300 8 3
+/images/navmaking1.png
+0 8 0 6984 0 0
+/images/makingmascot.gif
+0 29 0 391566 0 0
+/images/navabout1.png
+0 4 0 2459 0 0
+/images/postercrumpled-small.gif
+0 25 0 2299791 0 0
+/images/bgrule.png
+0 25 0 10857 0 0
+/images/zinecovers.gif
+0 30 0 1817622 0 0
+/images/sidephoto3.jpg
+0 31 0 202521 0 0
+/images/head_tips.png
+0 12 0 59274 0 0
+/images/head_aboutproject.png
+0 4 0 18770 0 0
+/images/commute-header.gif
+0 6 0 855666 0 0
+/images/making-header.gif
+0 13 0 3221818 0 0
+/gallery.html
+0 16 0 50118 7 4
+/images/head_aboutcommute.png
+0 6 0 27506 0 0
+/images/navabout.png
+0 28 0 19652 0 0
+/images/navphotos.png
+0 30 0 28736 0 0
+/images/photogif.gif
+0 6 0 6836384 0 0
+/commute.html
+0 18 0 139075 9 3
+/main.css
+0 34 0 148077 0 0
+/
+0 123 0 471018 99 31
+/images/head_recommended.png
+0 13 0 70171 0 0
+/images/navfood.png
+0 28 0 16048 0 0
+/images/foodmascot.gif
+0 28 0 259429 0 0
+/zine.html
+0 15 0 48102 9 2
+/images/navmaking.png
+0 29 0 21283 0 0
+/images/step1.png
+0 25 0 66128 0 0
+/images/head_aboutchallenge.png
+0 6 0 20483 0 0
+/faqs.html
+0 13 0 80168 5 5
+/images/head_aboutmindful.png
+0 4 0 15838 0 0
+/diyfavicon.ico
+0 22 0 30156 0 0
+/images/manifesto_small.jpg
+0 30 0 285942 0 0
+/images/mindfulmascot.gif
+0 28 0 279469 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-74-180.googlebot.com
+0 8 4 25975 3 1391450095
+/
+184.73.62.101
+0 1 1 7166 1 1391957698
+/making.html
+84.232.199.206
+0 2 2 11479 2 1391262590
+/
+proxy-220-255-1-178.singnet.com.sg
+0 11 10 37603 0 0
+-
+116.12.251.253
+0 32 32 582344 1 1391452756
+/
+69.171.233.114
+0 2 2 2015 0 0
+-
+162.219.249.106
+0 1 0 2732 0 0
+-
+216.211.85.198
+0 32 32 582344 1 1391961956
+/
+msnbot-157-55-35-94.search.msn.com
+0 4 3 23143 2 1391421660
+/about.html
+img-spider-5-255-253-68.yandex.com
+0 21 0 5897 0 0
+-
+msnbot-157-55-35-86.search.msn.com
+0 2 2 7857 1 1391230919
+/manifesto-text.html
+199.94.74.53
+0 87 65 4546814 3 1391869073
+/
+166.147.104.158
+0 37 37 921743 1 1391886388
+/making.html
+msnbot-199-30-20-46.search.msn.com
+0 4 2 481050 0 0
+-
+proxy-220-255-1-203.singnet.com.sg
+0 1 1 10399 0 0
+-
+crawl-66-249-75-109.googlebot.com
+0 10 3 19555 6 1391911090
+/gallery.html
+msnbot-157-56-92-152.search.msn.com
+0 2 1 8838 1 1391773407
+/about.html
+157.55.32.209
+0 2 2 12527 1 1391316339
+/commute.html
+69.171.233.118
+0 3 3 32141 0 0
+-
+baiduspider-180-76-5-62.crawl.baidu.com
+0 1 0 2751 0 0
+-
+107.22.60.216
+0 3 1 12779 1 1391488017
+/making.html
+69.164.111.198
+0 3 3 10329 1 1391621846
+/
+msnbot-157-55-35-38.search.msn.com
+0 1 1 7773 1 1391883807
+/mindful.html
+31.148.246.136
+0 1 1 6050 1 1391471817
+/about.html
+101.226.169.204
+0 1 0 2788 0 0
+-
+176.9.9.200
+0 3 1 5029 1 1391824612
+-
+proxy-220-255-1-192.singnet.com.sg
+0 1 1 15898 0 0
+-
+crawl-66-249-74-127.googlebot.com
+0 47 12 251867 21 1391983668
+/zine.html
+msnbot-65-55-24-246.search.msn.com
+0 2 2 7176 1 1391775043
+/manifesto-text.html
+69.171.233.113
+0 2 2 12050 0 0
+-
+220.255.2.222
+0 1 1 1431 0 0
+-
+75.172.108.34
+0 37 37 918727 1 1391353178
+/gallery.html
+85.201.181.139
+0 1 1 237811 0 0
+-
+msnbot-65-55-52-111.search.msn.com
+0 3 2 10645 1 1391362255
+/zine.html
+69.171.234.117
+0 1 1 79023 0 0
+-
+msnbot-65-55-24-218.search.msn.com
+0 2 2 12527 1 1391422002
+/gallery.html
+msnbot-65-55-24-233.search.msn.com
+0 3 2 13004 1 1391322099
+/manifesto.html
+proxy-220-255-1-205.singnet.com.sg
+0 1 1 448 0 0
+-
+msnbot-157-55-32-108.search.msn.com
+0 2 1 7064 1 1391365112
+/
+173.252.74.112
+0 2 2 2452 0 0
+-
+206.253.226.18
+0 12 0 6954 0 0
+-
+86.50.120.225
+0 42 42 1051704 1 1391549849
+/food.html
+71.200.237.238
+0 32 32 582344 1 1391684850
+/
+81.223.254.34
+0 12 11 65461 1 1391698593
+/gallery.html
+msnbot-157-55-33-15.search.msn.com
+0 5 3 18404 2 1391485186
+/
+115.94.45.138
+0 3 0 3220 1 1391983499
+-
+61.135.190.101
+0 1 1 4276 1 1391489619
+/
+161.200.62.140
+0 45 45 955133 1 1391398477
+/about.html
+proxy-220-255-1-251.singnet.com.sg
+0 1 1 237811 0 0
+-
+msnbot-157-55-35-112.search.msn.com
+0 2 1 8838 1 1391954587
+/about.html
+54.197.190.33
+0 4 2 18538 2 1391281016
+/
+proxy-220-255-2-202.singnet.com.sg
+0 1 1 887 0 0
+-
+baiduspider-123-125-71-70.crawl.baidu.com
+0 1 1 4239 1 1391693559
+/
+proxy-220-255-1-209.singnet.com.sg
+0 2 2 110276 0 0
+-
+201.95.125.190
+0 1 1 4220 1 1391461147
+/
+msnbot-157-56-92-143.search.msn.com
+0 2 2 14305 1 1391364339
+/food.html
+101.127.33.5
+0 97 95 1564596 3 1391751566
+/gallery.html
+79-114-119-129.rdsnet.ro
+0 1 1 4220 1 1391815418
+/
+baiduspider-180-76-5-197.crawl.baidu.com
+0 1 1 7242 1 1391768320
+/faqs.html
+54.204.227.167
+0 2 1 4107 0 0
+-
+proxy-220-255-1-71.singnet.com.sg
+0 1 1 4276 1 1391471127
+/
+173.252.74.116
+0 4 4 23792 1 1391633651
+/
+206.253.226.12
+0 58 46 16630 0 0
+-
+202.171.54.180
+0 38 38 653891 1 1391717041
+/making.html
+msnbot-157-55-33-101.search.msn.com
+0 2 0 2949 1 1391710207
+/
+99.11.92.162
+0 33 33 899865 1 1391538370
+/
+msnbot-157-56-93-94.search.msn.com
+0 2 0 2949 1 1391621162
+/
+180.76.6.64
+0 1 0 124 1 1391469755
+/manifesto-text.html
+157.56.93.96
+0 4 3 25779 2 1391594493
+/commute.html
+208.115.113.86
+0 4 2 20151 2 1391751923
+/mindful.html
+68.180.224.174
+0 4 3 16731 1 1391966529
+/about.html
+msnbot-157-55-35-44.search.msn.com
+0 3 3 14379 1 1391596033
+/manifesto.html
+38.99.97.76
+0 2 1 6990 1 1391705601
+/
+217.153.40.50
+0 32 32 582307 1 1391416659
+/
+198.154.246.112
+0 3 0 0 0 0
+-
+74.79.99.122
+0 42 42 1152667 1 1391873064
+/making.html
+93.1.201.226
+0 24 24 1548360 1 1391754733
+/zine.html
+218.30.103.54
+0 10 0 14375 5 1391949470
+/
+proxy-220-255-2-178.singnet.com.sg
+0 5 4 21566 0 0
+-
+207.161.91.94
+0 42 42 1155414 1 1391957325
+/commute.html
+5.9.73.48
+0 12 11 65364 1 1391286081
+/
+180.76.6.53
+0 1 0 2751 0 0
+-
+69.58.178.57
+0 12 11 65687 1 1391551520
+/zine.html
+msnbot-157-55-33-26.search.msn.com
+0 2 1 10561 1 1391315518
+/mindful.html
+proxy-220-255-1-218.singnet.com.sg
+0 3 3 6775 0 0
+-
+185.25.49.183
+0 48 48 210066 1 1391469645
+/manifesto-text.html
+baiduspider-180-76-5-194.crawl.baidu.com
+0 1 1 4239 1 1391265884
+/
+crawl-66-249-73-87.googlebot.com
+0 6 2 9959 1 1391775074
+/about.html
+54.196.125.127
+0 4 2 18538 1 1391340454
+/
+180.76.6.59
+0 2 0 3015 0 0
+-
+baiduspider-180-76-5-203.crawl.baidu.com
+0 1 1 7166 1 1391507975
+/making.html
+fulltextrobot-77-75-73-36.seznam.cz
+0 5 3 23181 2 1391993688
+/about.html
+msnbot-65-55-24-236.search.msn.com
+0 1 1 8686 1 1391773946
+/commute.html
+msnbot-65-55-52-88.search.msn.com
+0 5 3 20178 3 1391325138
+/
+baiduspider-180-76-5-73.crawl.baidu.com
+0 1 0 2751 0 0
+-
+173.252.74.118
+0 3 3 16362 0 0
+-
+proxy-220-255-1-250.singnet.com.sg
+0 1 1 237811 0 0
+-
+msnbot-65-55-213-52.search.msn.com
+0 2 2 8898 1 1391774724
+/
+208-115-111-70-reverse.wowrack.com
+0 20 10 77814 10 1391886740
+/zine.html
+173.252.74.119
+0 4 4 195435 0 0
+-
+69.171.233.115
+0 3 3 20264 0 0
+-
+www.whois.sc
+0 2 1 6939 1 1391950741
+/
+srv6.wehelp.cz
+0 1 1 4220 1 1391653178
+/
+2.94.80.197
+0 1 0 2700 1 1391364791
+-
+proxy.202.156.10.251.maxonline.com.sg
+0 9 9 52453 1 1391344405
+/making.html
+173.252.74.115
+0 1 1 767 0 0
+-
+msnbot-157-55-33-183.search.msn.com
+0 2 2 8552 1 1391361692
+/
+162.243.85.75
+0 13 12 69587 1 1391265503
+/manifesto-text.html
+msnbot-65-55-215-64.search.msn.com
+0 2 1 18612 0 0
+-
+61.135.190.221
+0 1 1 4276 1 1391388272
+/
+baiduspider-180-76-5-204.crawl.baidu.com
+0 1 0 2751 0 0
+-
+65.29.130.200
+0 33 33 2391165 1 1391366027
+/
+b100102.yse.yahoo.net
+0 4 2 16831 2 1391882798
+/making.html
+proxy-220-255-1-253.singnet.com.sg
+0 1 1 1331 0 0
+-
+msnbot-157-55-32-80.search.msn.com
+0 1 1 7773 1 1391418088
+/mindful.html
+157.56.93.84
+0 2 0 2949 1 1391565235
+/
+msnbot-157-55-32-77.search.msn.com
+0 7 4 32569 3 1391957525
+/faqs.html
+msnbot-157-55-32-223.search.msn.com
+0 2 0 2949 1 1391956144
+/
+spider-199-21-99-113.yandex.com
+0 56 16 95835 4 1391880730
+/
+109.68.191.150
+0 1 1 4239 1 1391800571
+/
+69.171.237.8
+0 1 1 317572 0 0
+-
+msnbot-65-55-215-75.search.msn.com
+0 2 1 13113 0 0
+-
+192.96.204.42
+0 4 4 9206 3 1391851697
+/
+54.198.226.76
+0 3 1 14262 1 1391487565
+/commute.html
+crawl15.exabot.com
+0 4 2 16907 2 1391816211
+/
+54.196.25.105
+0 1 1 4276 1 1391602338
+/
+173.252.74.117
+0 1 1 846 0 0
+-
+baiduspider-180-76-5-116.crawl.baidu.com
+0 1 1 4239 1 1391631476
+/
+84.61.172.227
+0 37 37 820068 1 1391498484
+/food.html
+msnbot-157-55-32-75.search.msn.com
+0 1 1 7773 1 1391596057
+/mindful.html
+69.171.234.116
+0 1 1 317572 0 0
+-
+61.135.190.222
+0 1 1 4276 1 1391666150
+/
+148.81.194.139
+0 1 0 2788 0 0
+-
+msnbot-157-56-93-38.search.msn.com
+0 2 1 6482 1 1391691125
+/zine.html
+msnbot-157-55-33-29.search.msn.com
+0 1 1 6050 1 1391596793
+/about.html
+180.76.6.37
+0 1 0 264 0 0
+-
+msnbot-157-56-92-174.search.msn.com
+0 4 3 15616 2 1391246280
+/
+proxy-220-255-1-179.singnet.com.sg
+0 1 1 10040 0 0
+-
+196.205.5.135
+0 50 50 1615804 1 1391322075
+/mindful.html
+173.236.184.111
+0 3 1 5029 1 1391657062
+-
+proxy-220-255-1-248.singnet.com.sg
+0 1 1 4622 0 0
+-
+202.156.10.10.cache.maxonline.com.sg
+0 20 20 576812 0 0
+-
+184.82.157.133
+0 2 2 409736 0 0
+-
+msnbot-157-55-33-110.search.msn.com
+0 6 4 20985 3 1391954488
+/manifesto.html
+173.252.101.118
+0 1 1 215982 0 0
+-
+msnbot-157-55-32-105.search.msn.com
+0 2 1 7027 1 1391448263
+/
+proxy-220-255-2-241.singnet.com.sg
+0 1 1 801 0 0
+-
+69.171.233.116
+0 1 1 846 0 0
+-
+142.55.122.107
+0 1 1 213836 0 0
+-
+61.135.190.105
+0 1 1 4276 1 1391730938
+/
+baiduspider-180-76-5-75.crawl.baidu.com
+0 1 1 4239 1 1391704521
+/
+173.vympelstroy.ru
+0 1 1 4220 1 1391383492
+/
+baiduspider-180-76-5-18.crawl.baidu.com
+0 1 1 4239 1 1391344526
+/
+msnbot-157-55-33-146.search.msn.com
+0 3 2 13004 1 1391419227
+/manifesto.html
+69.171.233.119
+0 3 3 12376 0 0
+-
+5-9-112-68.crawler.sistrix.net
+0 2 1 7025 1 1391653341
+/
+69.171.233.112
+0 1 1 6346 0 0
+-
+msnbot-157-55-36-36.search.msn.com
+0 2 1 7064 1 1391410545
+/
+61.135.190.104
+0 2 2 8552 2 1391835031
+/
+fulltextrobot-77-75-73-32.seznam.cz
+0 2 1 9814 1 1391274002
+/food.html
+101.226.167.221
+0 1 0 2788 0 0
+-
+69.171.233.117
+0 2 2 6353 0 0
+-
+cl-78-158-11-226.fastlink.lt
+0 3 3 15467 1 1391372347
+/food.html
+173.252.74.114
+0 4 4 16755 0 0
+-
+msnbot-199-30-20-73.search.msn.com
+0 2 1 13948 0 0
+-
+83.222.138.95
+0 31 31 580876 1 1391435608
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+img-spider-5-255-253-68.yandex.com
+0 17 0 2626 0 0
+-
+crawl-66-249-74-127.googlebot.com
+0 2 0 2949 0 0
+-
+180.76.6.59
+0 1 0 264 0 0
+-
+fulltextrobot-77-75-73-36.seznam.cz
+0 3 2 13114 1 1391993688
+/about.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://diy-lifestyle.org/myadmin/scripts/setup.php
+0 1
+http://domainsigma.com/whois/diy-lifestyle.org
+0 3
+https://www.google.com.eg/
+0 1
+http://diylifestyle.bigcartel.com/product/adventures-in-diy-1
+0 3
+http://diy-lifestyle.org/zine.html
+0 64
+http://www.google.be/blank.html
+0 1
+http://www.google.com/url
+0 3
+https://www.google.ch/
+0 1
+http://diy-lifestyle.org/robots.txt
+0 2
+http://diy-lifestyle.org/about.html
+0 9
+http://diy-lifestyle.org/manifesto.html
+0 3
+http://diy-lifestyle.org/index.html
+0 10
+http://diy-lifestyle.org/mindful.html
+0 3
+http://www.google.fi/url
+0 1
+https://www.facebook.com/
+0 1
+http://diy-lifestyle.org/
+0 574
+http://evuln.com/tools/malware-scanner/diy-lifestyle.org/
+0 1
+https://www.google.com/
+0 4
+- (Direct Request)
+0 579
+http://www.google.de/url
+0 1
+http://diy-lifestyle.org/main.css
+0 2
+http://diy-lifestyle.org/gallery.html
+0 4
+http://diy-lifestyle.org
+0 2
+http://diy-lifestyle.org/food.html
+0 17
+http://diy-lifestyle.org/commute.html
+0 14
+http://diy-lifestyle.org/phpMyAdmin/scripts/setup.php
+0 1
+https://www.google.ca/
+0 1
+http://www.webhostingworld.net/billing/viewemail.php
+0 1
+https://www.google.co.th/
+0 1
+http://diy-lifestyle.tumblr.com/
+0 2
+http://www.diy-lifestyle.org/
+0 70
+http://www.diy-lifestyle.org/manifesto.html
+0 1
+https://m.facebook.com
+0 1
+http://www.baidu.com/s
+0 6
+http://whois.domaintools.com/diy-lifestyle.org
+0 1
+http://diy-lifestyle.org/pma/scripts/setup.php
+0 1
+http://www.google.com.sg/blank.html
+0 1
+http://www.kreatywnakasia.pl/1/archives/04-2012/1.html
+0 1
+http://diy-lifestyle.org/making.html
+0 61
+http://greenissuessingapore.blogspot.com/2012_03_01_archive.html
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;F
+0 29
+GoogleBot 1.0
+0 1
+Pinterest/0.1 +http://pinterest.com/
+0 2
+Go 1.1 package http
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0
+0 32
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 70
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 3
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 53
+SeznamBot/3.0 (+http://fulltext.sblog.cz/)
+0 2
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a S
+0 68
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 102
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 1
+Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sistrix.net/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+0 97
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+0 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 31
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+0 24
+Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
+0 2
+Mozilla/5.0 (Linux;u;Android 2.3.7;zh-cn;) AppleWebKit/533.1 (KHTML,like Gecko) Version/4.0 Mobile Safari/533.1 (compatible; 
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 86
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 45
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 32
+Lynx/2.8.5rel.1 libwww-FM/2.15FC SSL-MM/1.4.1c OpenSSL/0.9.7e-dev
+0 3
+Googlebot-Image/1.0
+0 18
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)
+0 5
+Java/1.7.0_51
+0 48
+Nekstbot - http://www.ipipan.waw.pl/nekst/nekstbot/
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+0 42
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 4
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 40
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+0 1
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+0 50
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 38
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727)
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 42
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  WOW64;  Trident/5.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 87
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+0 33
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.3; en-ca; SGH-I747M Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 32
+Mozilla/5.0 (compatible; SearchmetricsBot; http://www.searchmetrics.com/en/searchmetrics-bot/)
+0 12
+Mozilla/5.0 (compatible; linkdexbot/2.0; +http://www.linkdex.com/about/bots/)
+0 15
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 42
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+0 37
+Mozilla/5.0 (compatible; Ezooms/1.0; help@moz.com)
+0 24
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1292.0 Safari/537.14
+0 1
+Mozilla/5.0 (compatible; spbot/4.0.6; +http://www.seoprofiler.com/bot )
+0 13
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 32
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.50
+0 2
+# End Of Table - agents
+# -search strings- 
+diy-lifestyle.org
+1
+diy challenge
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

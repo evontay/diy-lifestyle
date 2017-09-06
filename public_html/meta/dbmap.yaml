@@ -1,0 +1,19 @@
+--- 
+MYSQL: 
+  dbs: {}
+
+  dbusers: {}
+
+  noprefix: {}
+
+  owner: diylifes
+  server: 173.254.28.16
+PGSQL: 
+  dbs: {}
+
+  dbusers: {}
+
+  noprefix: {}
+
+  owner: diylifes
+  server: 173.254.28.16
